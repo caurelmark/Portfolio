@@ -1,0 +1,16 @@
+@font-face{
+	font-family: impactimport;
+	src:url("impact.ttf");
+	
+}
+#main{
+	font-family:impactimport;
+}
+@font-face{
+	font-family: impactreverseimport;
+	src:url("impactreverse.ttf");
+	
+}
+#main1{
+	font-family:impactreverseimport;
+}
